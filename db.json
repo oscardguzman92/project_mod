@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "productos": [
     {
       "id": 1,
-      "title": "hello"
+      "codsap": "hello"
     }
   ],
   "profile": {
